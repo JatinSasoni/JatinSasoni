@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsasoni4452@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinsasoni)
 
-<img src="https://komarev.com/ghpvc/?username=jatinsasoni&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=jatinsasoni&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> -->
 
 </div>
 
@@ -106,8 +106,8 @@ const jatin = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jatinsasoni&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinsasoni&theme=tokyonight&hide_border=true" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jatinsasoni&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinsasoni&theme=tokyonight&hide_border=true" /> -->
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsasoni&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -122,7 +122,7 @@ const jatin = {
 ### 💌 Open to Internships, Full-Time Roles & Collaborations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsasoni4452@gmail.com)
 
 </div>
 
