@@ -49,7 +49,7 @@ const jatin = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend
+### ⚙️ Backend & Infrastructure
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -58,11 +58,11 @@ const jatin = {
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🛠️ Tools
+### 🚀 DevOps & Automation
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-success?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
@@ -141,12 +141,12 @@ const jatin = {
 - Handles 1M+ delayed & retryable jobs
 - Email, Push & In-App notifications
 
-🔹 **Development in progress**
+🔹 **AI Interview Platform**
 
-- AI Interview Platform
-- Integrating real time AI voice using Vapi
-- Feedback and Area of improvement to Interviewee
-- Single platform for any interview prep
+- Real-time AI voice interviews using Vapi
+- Instant feedback & improvement areas for candidates
+- Background evaluation jobs using Redis workers
+- Designed for scalable, concurrent interview sessions
 
 🔹 **System Design Playground**
 
