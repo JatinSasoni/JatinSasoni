@@ -115,6 +115,52 @@ const jatin = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
+## 🚧 Currently Building
+
+🔹 **Scalable Notification System**
+
+- Redis + BullMQ + Node.js
+- Handles 1M+ delayed & retryable jobs
+- Email, Push & In-App notifications
+
+🔹 **Development in progress**
+
+- AI Interview Platform
+- Integrating real time AI voice using Vapi
+- Feedback and Area of improvement to Interviewee
+- Single platform for any interview prep
+
+🔹 **System Design Playground**
+
+- Designing systems like Twitter, Chat App, and Many more...
+- Includes DB schema, APIs & trade-offs
+
+## 🛠️ Tech Radar
+
+✅ Confident With
+
+- Node.js, Express, MongoDB, Redis
+- React, Redux, TanStack Query
+
+🧪 Exploring
+
+- Kafka / Message Brokers
+- PostgreSQL
+- Distributed Systems
+
+📚 Learning Deeply
+
+- System Design
+- Scalable Backends
+- CI/CD Pipelines
+
+## ❤️ Things I Care About
+
+- Clean backend architecture
+- Writing predictable, debuggable code
+- Performance before premature optimization
+- Reading other people's production bugs 😄
+
 ## 📫 Let's Connect
 
 <div align="center">
