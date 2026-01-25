@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### 🎯 Full Stack Developer | MERN Stack | Building Scalable Web Apps
+### 🎯 Backend-leaning Full Stack Developer building scalable, real-time systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsasoni4452@gmail.com)
@@ -83,7 +83,9 @@ const jatin = {
 - 🔐 Role-based Authentication (Recruiter / User)
 - 💳 Monthly Subscription for "Job of the Day"
 - 📬 Email Notifications using BullMQ Workers
+- 🐳 Fully containerized using **Docker**
 - ⚡ Redis-powered background jobs
+- 🔁 Automated deployment with **GitHub Actions CI/CD**
 - 📱 Progressive Web App
 
 ---
@@ -97,6 +99,22 @@ const jatin = {
 - ⚡ Real-time messaging
 - 👥 Online user presence
 - 🔄 Optimized backend event handling
+
+### 🤖 Nexora — AI Productivity Platform
+
+**AI-powered content & productivity platform built for creators and job-seekers**
+
+`React` `Node.js` `Express` `MongoDB`  
+`Redis` `BullMQ` `Docker`  
+`OpenAI` `Gemini` `Cloudinary`  
+`GitHub Actions` `CI/CD`
+
+- 🧠 AI-powered article, blog-title & content generation
+- 🎨 Real-time image generation using prompt-based AI
+- 🔐 Secure authentication using Clerk
+- 💳 Subscription-based access & usage limits
+
+> Designed as a scalable SaaS with async workers, rate limits, and background processing.
 
 </div>
 
