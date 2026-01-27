@@ -183,7 +183,7 @@ const jatin = {
 
 <div align="center">
 
-### 💌 Open to Internships, Full-Time Roles & Collaborations
+### 💌 Full-Time Roles & Collaborations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsasoni4452@gmail.com)
