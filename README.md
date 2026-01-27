@@ -8,7 +8,7 @@
 
 ### 🎯 Backend-leaning Full Stack Developer building scalable, real-time systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-sasoni/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsasoni4452@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinsasoni)
 
@@ -185,14 +185,14 @@ const jatin = {
 
 ### 💌 Full-Time Roles & Collaborations
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-sasoni/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsasoni4452@gmail.com)
 
 </div>
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🐍 Profile Snake
 
 ![Snake animation](https://github.com/jatinsasoni/jatinsasoni/blob/output/github-contribution-grid-snake.svg)
 
