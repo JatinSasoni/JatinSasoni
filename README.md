@@ -1,18 +1,14 @@
 <div align="center">
 
-# 👋 Hey there! I'm Jatin Sasoni
+# Hey, I'm Jatin Sasoni 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%F0%9F%92%BB;Backend+%26+Redis+Enthusiast+%E2%9A%A1;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF5B1F&center=true&vCenter=true&random=false&width=640&lines=Full-Stack+Developer;Building+AI-powered+business+solutions;Software+Developer+%40+Helios+Tech+Labs;React+%C2%B7+Node+%C2%B7+Redis+%C2%B7+BullMQ+%C2%B7+Docker" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 🎯 Backend-leaning Full Stack Developer building scalable, real-time systems
+### I turn business problems into full-stack, AI-powered software — and ship it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-sasoni/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsasoni4452@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinsasoni)
-
-<!-- <img src="https://komarev.com/ghpvc/?username=jatinsasoni&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5B1F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL) -->
 
 </div>
 
@@ -22,20 +18,32 @@
 
 ```javascript
 const jatin = {
-  location: "Mohali, Punjab, India 📍",
-  currentRole: "Software Developer Intern",
-  techStack: ["React", "Node", "Express", "Docker", "Framer", "Many more..."],
-  learning: ["System Design", "Scalable Backends", "CICD"],
-  interests: [
-    "Backend Engineering",
-    "Queues & Workers",
-    "Performance Optimization",
+  role: "Software Developer @ Helios Tech Labs",
+  experience: "1+ year (intern → full-time)",
+  location: "Mohali, Punjab, India",
+  focus: [
+    "AI-powered solutions for real business problems",
+    "Full-stack products, end to end",
+    "Fast, scalable backends — caching, queues, workers",
   ],
+  alsoWorkWith: ["ERP systems", "Zoho automation & integrations"],
+  learning: ["System Design", "Distributed Systems", "CI/CD"],
   funFact: "I trust console.log before debuggers 😄",
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+- 🤖 Shipped AI features that do real work — résumé scoring, **voice-AI mock interviews**, content & image generation
+- ⚡ Cut API latency by **up to 40%** with a Redis caching layer, and improved throughput **25–30%** by moving slow work to BullMQ jobs
+- 🐳 Ship with Docker, Nginx and GitHub Actions to AWS EC2 and Vercel
+
+## 💡 What I Build
+
+| | |
+|---|---|
+| 🤖 **AI features** | Integrating OpenAI, Gemini, Groq and Vapi voice into products where they solve an actual problem |
+| 🧱 **Full-stack products** | SaaS apps, portals and dashboards with auth, roles, payments and realtime built in |
+| 🔁 **Automation & integrations** | Background jobs, notifications, AI-assisted workflows — plus ERP and Zoho when a business runs on them |
+| 🚀 **Fast & deployed** | Caching the hot path, queueing the slow path, containerised and shipped with CI/CD |
 
 ## 💻 Tech Stack
 
@@ -44,162 +52,118 @@ const jatin = {
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend & Infrastructure
+### ⚙️ Backend & Data
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🚀 DevOps & Automation
+### 🤖 AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi_Voice_AI-111111?style=for-the-badge&logoColor=white)
+
+### 🚀 DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-success?style=for-the-badge)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+### 🔌 Integrations
+
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP_Systems-555555?style=for-the-badge)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 🏆 Featured Projects
 
-<div align="center">
+### 💼 TalentNest Pro — AI Hiring Platform
+[**Live**](https://talentnests.duckdns.org/) · [Code](https://github.com/JatinSasoni/Job-Portal)
 
-### 💼 Job Portal (MERN Stack)
+`React` `Redux` `Node.js` `MongoDB` `Redis` `BullMQ` `Vapi` `Groq` `Razorpay` `Docker` `AWS EC2`
 
-**Recruiter & Candidate Platform with Subscription System**
+- 🎙️ **Voice-AI mock interviews** per job with automated feedback reports (Vapi)
+- 🧠 AI résumé review, résumé builder, AI job descriptions and applicant **match scoring**
+- 🔐 JWT + bcrypt auth with role-based access (recruiter / candidate)
+- ⚡ Redis caching and async email notifications with **BullMQ workers**
+- 💳 Razorpay subscriptions for premium recruiter tools
+- 🐳 Containerised with Docker, deployed on AWS EC2 with GitHub Actions CI/CD
 
-`React` `Redux` `Node.js` `MongoDB` `Redis` `BullMQ` `Razorpay`
+### 🤖 Nexora — AI SaaS Toolkit
+[**Live**](https://nexoraaitool.vercel.app) · [Code](https://github.com/JatinSasoni/SaaS-Application)
 
-- 🔐 Role-based Authentication (Recruiter / User)
-- 💳 Monthly Subscription for "Job of the Day"
-- 📬 Email Notifications using BullMQ Workers
-- 🐳 Fully containerized using **Docker**
-- ⚡ Redis-powered background jobs
-- 🔁 Automated deployment with **GitHub Actions CI/CD**
-- 📱 Progressive Web App
+`React` `Node.js` `Express` `MongoDB` `OpenAI` `Gemini` `ClipDrop` `Clerk` `Cloudinary`
 
----
+- ✍️ AI article and blog-title generation
+- 🎨 Prompt-to-image generation, background and object removal
+- 📄 Résumé / CV review
+- 🔐 Clerk auth with subscription-based access and usage limits
 
-### 💬 Real-Time Chat Application
+### 💬 QuickChat — Real-Time Chat
+[Code](https://github.com/JatinSasoni/ChatApp)
 
-**Scalable Chat App using Socket.IO**
+`React` `Node.js` `Express` `Socket.IO` `MongoDB` `JWT`
 
-`React` `Node.js` `Express` `Socket.IO` `MongoDB`
+- ⚡ 1:1 and group messaging over Socket.IO
+- 👥 Live presence, typing indicators and read receipts
+- 🔄 JWT access + refresh tokens with rotation
 
-- ⚡ Real-time messaging
-- 👥 Online user presence
-- 🔄 Optimized backend event handling
+## 🚧 Currently Building
 
-### 🤖 Nexora — AI Productivity Platform
+🔹 **Scalable Notification System** — Redis + BullMQ + Node.js for delayed, retryable email, push and in-app notifications
 
-**AI-powered content & productivity platform built for creators and job-seekers**
+🔹 **System Design Playground** — designing systems like Twitter and chat apps, with DB schemas, APIs and trade-offs
 
-`React` `Node.js` `Express` `MongoDB`  
-`Redis` `BullMQ` `Docker`  
-`OpenAI` `Gemini` `Cloudinary`  
-`GitHub Actions` `CI/CD`
+## 🛠️ Tech Radar
 
-- 🧠 AI-powered article, blog-title & content generation
-- 🎨 Real-time image generation using prompt-based AI
-- 🔐 Secure authentication using Clerk
-- 💳 Subscription-based access & usage limits
+✅ **Confident with** — Node.js, Express, MongoDB, Redis, BullMQ, React, Redux, Docker
 
-> Designed as a scalable SaaS with async workers, rate limits, and background processing.
+🧪 **Exploring** — AI agents & automation, Kafka / message brokers, PostgreSQL
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+📚 **Learning deeply** — System design, distributed systems, CI/CD
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jatinsasoni&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinsasoni&theme=tokyonight&hide_border=true" /> -->
-
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsasoni&layout=compact&theme=tokyonight&hide_border=true" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JatinSasoni/JatinSasoni/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/JatinSasoni/JatinSasoni/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🚧 Currently Building
-
-🔹 **Scalable Notification System**
-
-- Redis + BullMQ + Node.js
-- Handles 1M+ delayed & retryable jobs
-- Email, Push & In-App notifications
-
-🔹 **AI Interview Platform**
-
-- Real-time AI voice interviews using Vapi
-- Instant feedback & improvement areas for candidates
-- Background evaluation jobs using Redis workers
-- Designed for scalable, concurrent interview sessions
-
-🔹 **System Design Playground**
-
-- Designing systems like Twitter, Chat App, and Many more...
-- Includes DB schema, APIs & trade-offs
-
-## 🛠️ Tech Radar
-
-✅ Confident With
-
-- Node.js, Express, MongoDB, Redis
-- React, Redux, TanStack Query
-
-🧪 Exploring
-
-- Kafka / Message Brokers
-- PostgreSQL
-- Distributed Systems
-
-📚 Learning Deeply
-
-- System Design
-- Scalable Backends
-- CI/CD Pipelines
-
-## ❤️ Things I Care About
-
-- Clean backend architecture
-- Writing predictable, debuggable code
-- Performance before premature optimization
-- Reading other people's production bugs 😄
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-### 💌 Full-Time Roles & Collaborations
+**Have a business problem AI could solve, a product to build, or a role to fill?**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-sasoni/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsasoni4452@gmail.com)
 
-</div>
-
-<div align="center">
-
-### 🐍 Profile Snake
-
-![Snake animation](https://github.com/jatinsasoni/jatinsasoni/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### ⭐ From Jatin Sasoni | Thanks for visiting!
-
-**"First make it work, then make it better, then make it fast."** 🚀
+*"First make it work, then make it better, then make it fast."* 🚀
 
 </div>
